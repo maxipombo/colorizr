@@ -1,10 +1,11 @@
 How does your gem take advantage of Ruby’s metaprogramming capabilities?
-
+I think that metaprogramming simplified the "hard code job" and made things easier.
 
 How long did you spend working on this project?
-
+About 3 hours.
 
 What was the most rewarding challenge you conquered?
-
+When I could make the gem and make it work!
 
 Where do you still have room to grow?
+I need more practice building more complex gems.
